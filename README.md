@@ -1,7 +1,5 @@
-Oi, eu sou o Mafiagafo, as vezes conhecido como Johnatan e sou entusiasta no desenvolvimento de jogos digitais.
-
-<h1 align="center">Oi 👋, eu sou o Mafiagafo, as vezes conhecido como Johnatan e sou entusiasta no desenvolvimento de jogos digitais.</h1>
-
+<h1 align="center">Oi 👋, eu sou o Mafiagafo</h1>
+As vezes conhecido como Johnatan e sou entusiasta no desenvolvimento de jogos digitais.
 
 ###
 
